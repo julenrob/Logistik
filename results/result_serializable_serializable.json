@@ -1,0 +1,242 @@
+[
+    {
+        "id": 24,
+        "transportista": {
+            "id": 1,
+            "nombre": "División Valencia",
+            "direccion": "Avenida Joan XXIII, 3",
+            "provincia": "Valencia",
+            "poblacion": "Valencia",
+            "cp": "46025",
+            "lat": "39.490688",
+            "lon": "-0.381953"
+        },
+        "camion": {
+            "id": 5,
+            "marca": "Mercedes",
+            "modelo": "Actros",
+            "tara": 3000.0,
+            "mma": 10000.0,
+            "pesomercanciamax": 7000.0,
+            "alto": 2.5,
+            "ancho": 2.0,
+            "largo": 6.0,
+            "volumenmercanciamax": 30.0,
+            "litrosdeposito": 200.0,
+            "matricula": "5641SDR",
+            "kilometros": 120000.0,
+            "transportista": 1
+        },
+        "albaran": {
+            "id": 9,
+            "fechaentrega": "2022-06-21",
+            "horamin": "10:00:00",
+            "horamax": "12:00:00",
+            "cliente_dni": {
+                "dni": "06820315X",
+                "nombre": "Astrix",
+                "apellido1": "Sedgebeer",
+                "apellido2": "Noni",
+                "direccion": "C/ San Vicente Mártir, 50",
+                "provincia": "Valencia",
+                "poblacion": "Valencia",
+                "cp": "46002",
+                "email": "anoni1d@reference.com",
+                "movil": "43995476",
+                "lat": "39.470496",
+                "lon": "-0.378271"
+            },
+            "estado": 2
+        },
+        "conductor": {
+            "id": 16,
+            "nombre": "Alfonso",
+            "apellido1": "Gutiérrez",
+            "apellido2": "Pérez",
+            "email": "alfon.guti@mail.com",
+            "telefono": "608835646",
+            "uid_firebase": "pG3QxjxKIhVbvUg3g4Y8XTxzEUt1"
+        },
+        "fecharuta": "2022-06-21"
+    },
+    {
+        "id": 26,
+        "transportista": {
+            "id": 1,
+            "nombre": "División Valencia",
+            "direccion": "Avenida Joan XXIII, 3",
+            "provincia": "Valencia",
+            "poblacion": "Valencia",
+            "cp": "46025",
+            "lat": "39.490688",
+            "lon": "-0.381953"
+        },
+        "camion": {
+            "id": 5,
+            "marca": "Mercedes",
+            "modelo": "Actros",
+            "tara": 3000.0,
+            "mma": 10000.0,
+            "pesomercanciamax": 7000.0,
+            "alto": 2.5,
+            "ancho": 2.0,
+            "largo": 6.0,
+            "volumenmercanciamax": 30.0,
+            "litrosdeposito": 200.0,
+            "matricula": "5641SDR",
+            "kilometros": 120000.0,
+            "transportista": 1
+        },
+        "albaran": {
+            "id": 11,
+            "fechaentrega": "2022-06-21",
+            "horamin": "10:00:00",
+            "horamax": "12:00:00",
+            "cliente_dni": {
+                "dni": "06820315X",
+                "nombre": "Astrix",
+                "apellido1": "Sedgebeer",
+                "apellido2": "Noni",
+                "direccion": "C/ San Vicente Mártir, 50",
+                "provincia": "Valencia",
+                "poblacion": "Valencia",
+                "cp": "46002",
+                "email": "anoni1d@reference.com",
+                "movil": "43995476",
+                "lat": "39.470496",
+                "lon": "-0.378271"
+            },
+            "estado": 2
+        },
+        "conductor": {
+            "id": 16,
+            "nombre": "Alfonso",
+            "apellido1": "Gutiérrez",
+            "apellido2": "Pérez",
+            "email": "alfon.guti@mail.com",
+            "telefono": "608835646",
+            "uid_firebase": "pG3QxjxKIhVbvUg3g4Y8XTxzEUt1"
+        },
+        "fecharuta": "2022-06-21"
+    },
+    {
+        "id": 27,
+        "transportista": {
+            "id": 1,
+            "nombre": "División Valencia",
+            "direccion": "Avenida Joan XXIII, 3",
+            "provincia": "Valencia",
+            "poblacion": "Valencia",
+            "cp": "46025",
+            "lat": "39.490688",
+            "lon": "-0.381953"
+        },
+        "camion": {
+            "id": 5,
+            "marca": "Mercedes",
+            "modelo": "Actros",
+            "tara": 3000.0,
+            "mma": 10000.0,
+            "pesomercanciamax": 7000.0,
+            "alto": 2.5,
+            "ancho": 2.0,
+            "largo": 6.0,
+            "volumenmercanciamax": 30.0,
+            "litrosdeposito": 200.0,
+            "matricula": "5641SDR",
+            "kilometros": 120000.0,
+            "transportista": 1
+        },
+        "albaran": {
+            "id": 12,
+            "fechaentrega": "2022-06-21",
+            "horamin": "10:00:00",
+            "horamax": "12:00:00",
+            "cliente_dni": {
+                "dni": "06943581L",
+                "nombre": "Renato",
+                "apellido1": "Salthouse",
+                "apellido2": "Maidment",
+                "direccion": "C/ San Vicente Mártir, 29",
+                "provincia": "Valencia",
+                "poblacion": "Valencia",
+                "cp": "46002",
+                "email": "rmaidments@list-manage.com",
+                "movil": "26000649",
+                "lat": "39.472256",
+                "lon": "-0.376398"
+            },
+            "estado": 2
+        },
+        "conductor": {
+            "id": 16,
+            "nombre": "Alfonso",
+            "apellido1": "Gutiérrez",
+            "apellido2": "Pérez",
+            "email": "alfon.guti@mail.com",
+            "telefono": "608835646",
+            "uid_firebase": "pG3QxjxKIhVbvUg3g4Y8XTxzEUt1"
+        },
+        "fecharuta": "2022-06-21"
+    },
+    {
+        "id": 28,
+        "transportista": {
+            "id": 1,
+            "nombre": "División Valencia",
+            "direccion": "Avenida Joan XXIII, 3",
+            "provincia": "Valencia",
+            "poblacion": "Valencia",
+            "cp": "46025",
+            "lat": "39.490688",
+            "lon": "-0.381953"
+        },
+        "camion": {
+            "id": 5,
+            "marca": "Mercedes",
+            "modelo": "Actros",
+            "tara": 3000.0,
+            "mma": 10000.0,
+            "pesomercanciamax": 7000.0,
+            "alto": 2.5,
+            "ancho": 2.0,
+            "largo": 6.0,
+            "volumenmercanciamax": 30.0,
+            "litrosdeposito": 200.0,
+            "matricula": "5641SDR",
+            "kilometros": 120000.0,
+            "transportista": 1
+        },
+        "albaran": {
+            "id": 13,
+            "fechaentrega": "2022-06-21",
+            "horamin": "10:00:00",
+            "horamax": "12:00:00",
+            "cliente_dni": {
+                "dni": "07481743G",
+                "nombre": "Boote",
+                "apellido1": "Sharrem",
+                "apellido2": "Raselles",
+                "direccion": "C/ San Vicente Mártir, 10",
+                "provincia": "Valencia",
+                "poblacion": "Valencia",
+                "cp": "46002",
+                "email": "braselles9@delicious.com",
+                "movil": "45918710",
+                "lat": "39.472866",
+                "lon": "-0.376450"
+            },
+            "estado": 2
+        },
+        "conductor": {
+            "id": 16,
+            "nombre": "Alfonso",
+            "apellido1": "Gutiérrez",
+            "apellido2": "Pérez",
+            "email": "alfon.guti@mail.com",
+            "telefono": "608835646",
+            "uid_firebase": "pG3QxjxKIhVbvUg3g4Y8XTxzEUt1"
+        },
+        "fecharuta": "2022-06-21"
+    }
+]
